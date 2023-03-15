@@ -5,7 +5,7 @@ Practiced:
 
 - if-else statements; ✅
 
-- cycles: for & while + break & continue; ✅
+- loops: for & while + break & continue; ✅
 
 - switch-case constructions; ✅
 
