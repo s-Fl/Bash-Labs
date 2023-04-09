@@ -1,14 +1,8 @@
 # Bash-Labs
 Collection of scripts created while practicing "*Bourne again shell*".
 
-Practiced:
+Contents of repository:
 
-- if-else statements; ✅
+- Results of seminar sessions from `25.02.2023` and `11.03.2023`.
 
-- loops: for & while + break & continue; ✅
-
-- switch-case constructions; ✅
-
-- types of streams; ✅
-
-- user-passed arguments & default variables; ✅
+- Homework folder.
